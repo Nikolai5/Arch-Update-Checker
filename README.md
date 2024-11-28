@@ -1,3 +1,5 @@
+Simple script to produce notification when an update is available.
+
 Requirements:
 extra/pacman-contrib
 extra/libnotify
