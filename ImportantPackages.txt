@@ -1,0 +1,8 @@
+linux
+mesa
+keyring
+amd
+radeon
+certificate
+firefox
+plasma-desktop
